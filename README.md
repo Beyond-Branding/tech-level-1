@@ -5,17 +5,17 @@ Evaluate your ability to navigate a GitHub repository, understand a simple front
 
 Instructions:
 
-    Visit the following GitHub repository: [REPO_URL]
+1. Visit the following GitHub repository: [Repository Link](https://github.com/Beyond-Branding/tech-level-1)
 
-    Clone the repository and review the contents.
+2. Clone the repository and review the contents.
 
-    Open the HTML file in your browser. Observe its behavior and presentation.
+3. Open the HTML file in your browser. Observe its behavior and presentation.
 
-    Review the project files to identify why the page does not reflect the intended design or functionality.
+4. Review the project files to identify why the page does not reflect the intended design or functionality.
 
-    Make the necessary changes to correct this.
+5. Make the necessary changes to correct this.
 
-    Submit your solution by creating a pull request to the main branch with a brief explanation of your changes.
+6. Submit your solution by creating a pull request to the main branch with a brief explanation of your changes.
 
 Hint:
 The issue is related to how the assets are referenced in the HTML file.
